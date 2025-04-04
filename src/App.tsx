@@ -1,6 +1,5 @@
 import PokemonCard from "./components/Pokemoncard"
 
-
 function App() {
   return (
 
